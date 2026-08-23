@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 /// Wrap your app with this widget if you want to use the responsive sizing extension
 class ResponsiveApp extends StatelessWidget {

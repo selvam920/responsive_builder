@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'device_screen_type.dart';
 
 /// Contains sizing information to make responsive choices for the current screen
